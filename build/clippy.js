@@ -844,7 +844,7 @@ clippy.Balloon.prototype = {
 
 };
 
-clippy.BASE_PATH = '//rubberocket.com/clippit.js/agents/';
+clippy.BASE_PATH = '//rubberocket.com/clippitjs/agents/';
 
 clippy.load = function (name, successCb, failCb) {
     var path = clippy.BASE_PATH + name;
